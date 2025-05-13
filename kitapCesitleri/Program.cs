@@ -27,7 +27,7 @@ namespace kitapCesitleri
                 Console.WriteLine("Basım Yılı: " + kitap.BasimYili);
                 Console.WriteLine("Yazar: " + kitap.YazarAdi);
                 Console.WriteLine("Stok: " + kitap.Stok);
-                Console.WriteLine();
+                
             }
 
             

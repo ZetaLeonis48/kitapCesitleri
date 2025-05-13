@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kitapCesitleri", "kitapCesitleri\kitapCesitleri.csproj", "{7752B547-0D21-44EF-B8EE-E7EF53519C36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kitaplar", "kitaplar\kitaplar.csproj", "{A38FA2F0-08D1-4BB1-8046-36680A7106A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7752B547-0D21-44EF-B8EE-E7EF53519C36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7752B547-0D21-44EF-B8EE-E7EF53519C36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7752B547-0D21-44EF-B8EE-E7EF53519C36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7752B547-0D21-44EF-B8EE-E7EF53519C36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A38FA2F0-08D1-4BB1-8046-36680A7106A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A38FA2F0-08D1-4BB1-8046-36680A7106A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A38FA2F0-08D1-4BB1-8046-36680A7106A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A38FA2F0-08D1-4BB1-8046-36680A7106A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42E48234-1824-44EA-94B3-DC6849765EE1}
+	EndGlobalSection
+EndGlobal
